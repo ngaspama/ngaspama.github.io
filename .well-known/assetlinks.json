@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tdameritrade.amerivest.debug",
+    "sha256_cert_fingerprints":
+    ["F9:FC:E3:2C:F1:0B:A0:58:36:90:EB:58:30:5C:D5:A7:5C:3D:E1:44:D1:12:12:CA:67:F1:BA:7F:C8:AA:95:B5"]
+  }
+}]
